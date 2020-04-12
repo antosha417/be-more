@@ -1,0 +1,10 @@
+html, body {
+  background-color: #1c405a;
+  margin: 0;
+  height: 100%;
+}
+
+.megaphone {
+  background: url(/megaphone.svg) no-repeat center;
+  border: none;
+}
